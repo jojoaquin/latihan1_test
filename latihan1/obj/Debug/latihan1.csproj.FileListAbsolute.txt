@@ -1,0 +1,17 @@
+D:\lksn\lksn\latihan1\latihan1\bin\Debug\latihan1.exe.config
+D:\lksn\lksn\latihan1\latihan1\bin\Debug\latihan1.exe
+D:\lksn\lksn\latihan1\latihan1\bin\Debug\latihan1.pdb
+D:\lksn\lksn\latihan1\latihan1\obj\Debug\latihan1.csproj.AssemblyReference.cache
+D:\lksn\lksn\latihan1\latihan1\obj\Debug\latihan1.Form1.resources
+D:\lksn\lksn\latihan1\latihan1\obj\Debug\latihan1.Form2.resources
+D:\lksn\lksn\latihan1\latihan1\obj\Debug\latihan1.Properties.Resources.resources
+D:\lksn\lksn\latihan1\latihan1\obj\Debug\latihan1.csproj.GenerateResource.cache
+D:\lksn\lksn\latihan1\latihan1\obj\Debug\latihan1.csproj.CoreCompileInputs.cache
+D:\lksn\lksn\latihan1\latihan1\obj\Debug\latihan1.exe
+D:\lksn\lksn\latihan1\latihan1\obj\Debug\latihan1.pdb
+D:\lksn\lksn\latihan1\latihan1\obj\Debug\latihan1.Register.resources
+D:\lksn\lksn\latihan1\latihan1\bin\Debug\EntityFramework.dll
+D:\lksn\lksn\latihan1\latihan1\bin\Debug\EntityFramework.SqlServer.dll
+D:\lksn\lksn\latihan1\latihan1\bin\Debug\EntityFramework.xml
+D:\lksn\lksn\latihan1\latihan1\bin\Debug\EntityFramework.SqlServer.xml
+D:\lksn\lksn\latihan1\latihan1\obj\Debug\latihan1.csproj.CopyComplete
